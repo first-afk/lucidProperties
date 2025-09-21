@@ -1,0 +1,74 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #2c3e50;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s;
+    border-left: 5px solid #ffa500; /* Orange accent */
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card h2 {
+    font-size: 1.2em;
+    margin-top: 0;
+    color: #34495e;
+}
+
+.card .address {
+    color: #7f8c8d;
+    flex-grow: 1; /* Pushes price and button to the bottom */
+}
+
+.card .price {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #e67e22; /* A darker orange */
+    margin: 15px 0;
+}
+
+.button {
+    display: inline-block;
+    background-color: #f39c12; /* Vibrant yellow/orange */
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #e67e22;
+}

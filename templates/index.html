@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Abuja House Listings</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>🏠 Abuja Property Finder</h1>
+      <p>Your source for the latest house listings, sorted by price.</p>
+    </header>
+    <div class="container">
+      {% for listing in listings %}
+      <div class="card">
+        <h2>{{ listing.title }}</h2>
+        <h3>{{ listing.content }}</h3>
+        <p class="address">{{ listing.address }}</p>
+        <p class="price">₦{{ "{:,.0f}".format(listing.price) }} / year</p>
+        <a href="{{ listing.link }}" target="_blank" class="button"
+          >View Details</a
+        >
+      </div>
+      {% else %}
+      <p>No listings found. Run the scraper first!</p>
+      {% endfor %}
+    </div>
+  </body>
+</html>
