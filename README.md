@@ -25,10 +25,10 @@ This tool solves the problem of finding aggregated real estate data by combining
 * **Frontend:** HTML5, CSS3, Jinja2 Templating, FontAwesome
 
 ## 🔧 Installation & Usage
-1. **Install Dependencies**
-   <code>pip install requests beautifulsoup4 flask<code/>
+1. **Install Dependencies** <code>pip install requests beautifulsoup4 flask</code>
 2. **Run the scraper**: This fetches the latest data and populates listings.json
    <code>python scraper.py</code>
 3. **Start the web server** <code>python app.py</code>
  
+
 
