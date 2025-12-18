@@ -1,149 +1,167 @@
 [
     {
-        "title": "24 Hours Deal - Luxury 5 Bedroom Semi Detached House+2 Bq+pool",
-        "content": "5 bedroom semi-detached duplex for rent",
-        "price": 80000000,
-        "address": "Maitama District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/semi-detached-duplexes/abuja/maitama-district/3098556-24-hours-deal-luxury-5-bedroom-semi-detached-house2-bqpool"
+        "title": "Block of Flats",
+        "address": "Umar Farouk Aliyu Street, Area 1, Garki, Abuja",
+        "price": 5500000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/garki/area-1/3258691-2-bedrooms-flat",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "toilets": 3,
+        "parking_space": 2,
+        "original_title": "2 Bedrooms Flat"
     },
     {
-        "title": "A Smart 3 Bedroom Flat With Bq",
-        "content": "3 bedroom flat / apartment for rent",
-        "price": 7500000,
-        "address": "Mabushi, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/mabushi/3066855-a-smart-3-bedroom-flat-with-bq"
+        "title": "Block of Flats",
+        "address": "Area 1, Garki, Abuja",
+        "price": 5500000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/garki/area-1/3258709-2-bedroom-flat",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "toilets": 3,
+        "parking_space": 0,
+        "original_title": "2 Bedroom Flat"
     },
     {
-        "title": "Office Space",
-        "content": "Office space for rent",
-        "price": 17550000,
-        "address": "Central Business District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/commercial/offices/abuja/central-business-district/3103489-office-space"
+        "title": "Block of Flats",
+        "address": "Area 1, Garki, Abuja",
+        "price": 5500000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/garki/area-1/3258726-spacious-two-bedroom-flat",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "toilets": 3,
+        "parking_space": 2,
+        "original_title": "Spacious Two Bedroom Flat"
     },
     {
-        "title": "Terrace Duplex",
-        "content": "4 bedroom terraced duplex for rent",
-        "price": 18000000,
-        "address": "Maitama District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/terraced-duplexes/abuja/maitama-district/3102770-terrace-duplex"
+        "title": "Block of Flats",
+        "address": "Katampe (Main), Katampe, Abuja",
+        "price": 5000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/katampe-district/katampe-main/3258933-spacious-3-bedroom-flat-bq",
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "toilets": 4,
+        "parking_space": 3,
+        "original_title": "Spacious 3 Bedroom Flat + Bq"
     },
     {
-        "title": "Luxury 4 Bedroom Terrace Duplex + Bq",
-        "content": "4 bedroom terraced duplex for rent",
-        "price": 20000000,
-        "address": "Katampe Extension, Katampe, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/terraced-duplexes/abuja/katampe-district/katampe-extension/3065155-luxury-4-bedroom-terrace-duplex-bq"
-    },
-    {
-        "title": "Luxury 5 Bedrooms Fully Detached Duplex",
-        "content": "5 bedroom detached duplex for rent",
-        "price": 20000000,
-        "address": "Gilmore, Jahi, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/detached-duplexes/abuja/jahi/3071225-luxury-5-bedrooms-fully-detached-duplex"
-    },
-    {
-        "title": "Fully Furnished 2 Bedrooms Apartment",
-        "content": "2 bedroom flat / apartment for rent",
-        "price": 15000000,
-        "address": "Gilmore, Jahi, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/jahi/3071341-fully-furnished-2-bedrooms-apartment"
-    },
-    {
-        "title": "Brand New Spacious And Serviced 2 Bedroom Flat With Bq In A Serene Environment",
-        "content": "2 bedroom flat / apartment for rent",
-        "price": 7000000,
-        "address": "By Stella Maris College, Life Camp, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/life-camp/3103315-brand-new-spacious-and-serviced-2-bedroom-flat-with-bq-in-a-serene-environment"
-    },
-    {
-        "title": "Standard 3 Bedrooms Block Of Flat First Floor",
-        "content": "3 bedroom flat / apartment for rent",
-        "price": 9000000,
-        "address": "By Gilmor, Jahi, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/jahi/3102280-standard-3-bedrooms-block-of-flat-first-floor"
-    },
-    {
-        "title": "Luxury Self Contain",
-        "content": "Self contain (single rooms) for rent",
-        "price": 1200000,
-        "address": "News Engineering, Dawaki, Gwarinpa, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/self-contained/abuja/gwarinpa/dawaki/3103267-luxury-self-contain"
-    },
-    {
-        "title": "6 Units Of 3-bedroom Apartment And 1-room Bq",
-        "content": "3 bedroom flat / apartment for rent",
-        "price": 90000000,
-        "address": "Guzape District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/guzape-district/2701515-6-units-of-3-bedroom-apartment-and-1-room-bq"
-    },
-    {
-        "title": "Luxury Fully Furnished 4-bedroom Terrace Duplex",
-        "content": "4 bedroom terraced duplex for rent",
-        "price": 20000000,
-        "address": "Guzape District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/terraced-duplexes/abuja/guzape-district/3096925-luxury-fully-furnished-4-bedroom-terrace-duplex"
-    },
-    {
-        "title": "Fully Furnished 4 Bedroom Fully Detached Duplex + Bq",
-        "content": "4 bedroom detached duplex for rent",
-        "price": 10000000,
-        "address": "Along Von Road, Ntapic Estate, Lugbe District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/detached-duplexes/abuja/lugbe-district/3103251-fully-furnished-4-bedroom-fully-detached-duplex-bq"
-    },
-    {
-        "title": "Office Size: 222 Sqm",
-        "content": "Office space for rent",
-        "price": 206238000,
-        "address": "Central Business District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/commercial/offices/abuja/central-business-district/3103071-office-size-222-sqm"
-    },
-    {
-        "title": "Clean 1bedroom Flat, 2toilet, Tarred Rd, In An Estate",
-        "content": "1 bedroom flat / apartment for rent",
-        "price": 2500000,
-        "address": "By Cannan Estate, Life Camp, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/life-camp/3103061-clean-1bedroom-flat-2toilet-tarred-rd-in-an-estate"
-    },
-    {
-        "title": "5bedroom Dtached Duplex With2rm Bq, 12car Parking,office/residence",
-        "content": "5 bedroom detached duplex for rent",
-        "price": 40000000,
-        "address": "Maitama Main, Maitama District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/detached-duplexes/abuja/maitama-district/3103033-5bedroom-dtached-duplex-with2rm-bq-12car-parkingofficeresidence"
-    },
-    {
-        "title": "Clean 4 Bedroom Terrace Duplex With Bq, Office/residence",
-        "content": "4 bedroom terraced duplex for rent",
-        "price": 10000000,
-        "address": "Main, Garki, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/terraced-duplexes/abuja/garki/3102930-clean-4-bedroom-terrace-duplex-with-bq-officeresidence"
-    },
-    {
-        "title": "A Standard 3-bedroom Flat",
-        "content": "3 bedroom house for rent",
-        "price": 6500000,
-        "address": "Katampe Main, Abuja, Katampe, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/abuja/katampe-district/3103022-a-standard-3-bedroom-flat"
-    },
-    {
-        "title": "Massive 3 Bedroom Block Of Flat",
-        "content": "3 bedroom block of flats for rent",
-        "price": 4000000,
-        "address": "After Aduvie School, Jahi, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/block-of-flats/abuja/jahi/3072428-massive-3-bedroom-block-of-flat"
-    },
-    {
-        "title": "4-bedroom Penthouse",
-        "content": "4 bedroom detached duplex for rent",
+        "title": "Detached Duplex",
+        "address": "Maitama Extension (mpape), Mpape, Abuja",
         "price": 8000000,
-        "address": "Lokogoma District, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/houses/detached-duplexes/abuja/lokogoma-district/3102936-4-bedroom-penthouse"
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/semi-detached-duplexes/abuja/mpape/3245026-newly-built-4-bedroom-semi-detached-duplex-bq",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "toilets": 5,
+        "parking_space": 4,
+        "original_title": "Newly Built 4 Bedroom Semi-detached Duplex + Bq"
     },
     {
-        "title": "403sqm Office Space In A Strategic Location",
-        "content": "Office space for rent",
-        "price": 16120000,
-        "address": "Zone 4, Wuse, Abuja",
-        "link": "https://nigeriapropertycentre.com/for-rent/commercial/offices/abuja/wuse/zone-4/3091443-403sqm-office-space-in-a-strategic-location"
+        "title": "Detached Duplex",
+        "address": "Wuse 2, Abuja",
+        "price": 5000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/commercial/shops/abuja/wuse-2/3254427-serviced-50sqm-office-shop-space-on-the-second-floor-with-generator",
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "toilets": 0,
+        "parking_space": 0,
+        "original_title": "Serviced 50sqm Office / Shop Space On The Second Floor With Generator"
+    },
+    {
+        "title": "Detached Duplex",
+        "address": "Apo By Cedar Crest Hospital, Apo, Abuja",
+        "price": 13500000,
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/semi-detached-duplexes/abuja/apo/3258610-luxury-spacious-4-bedroom-duplex-standalone",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "toilets": 5,
+        "parking_space": 6,
+        "original_title": "Luxury Spacious 4 Bedroom Duplex Standalone"
+    },
+    {
+        "title": "Block of Flats",
+        "address": "Bellevue, Life Camp, Abuja",
+        "price": 15000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/life-camp/3246752-2-bedroom-flat",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "toilets": 3,
+        "parking_space": 1,
+        "original_title": "2 Bedroom Flat"
+    },
+    {
+        "title": "Detached Duplex",
+        "address": "Gwarinpa, Abuja",
+        "price": 12000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/detached-duplexes/abuja/gwarinpa/3258776-well-finished-4-bedroom-fully-detached-duplex-with-bq",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "toilets": 5,
+        "parking_space": 5,
+        "original_title": "Well Finished 4 Bedroom Fully Detached Duplex With Bq"
+    },
+    {
+        "title": "Terraced Duplexes",
+        "address": "By Old Cbn, Garki, Abuja",
+        "price": 15000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/terraced-duplexes/abuja/garki/3258799-fully-serviced-4-bedroom-terrace-duplex-with-bq",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "toilets": 5,
+        "parking_space": 4,
+        "original_title": "Fully Serviced 4 Bedroom Terrace Duplex With Bq"
+    },
+    {
+        "title": "Block of Flats",
+        "address": "Jahi Aduvie, Jahi, Abuja",
+        "price": 6000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/jahi/3258808-well-finished-3bedroom-flat",
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "toilets": 4,
+        "parking_space": 5,
+        "original_title": "Well Finished 3bedroom Flat"
+    },
+    {
+        "title": "Block of Flats",
+        "address": "Guzape District Abuja Diplomatic Zone, Guzape District, Abuja",
+        "price": 6000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/abuja/guzape-district/3258915-brand-new-2-bedroom-block-of-flat",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "toilets": 3,
+        "parking_space": 1,
+        "original_title": "Brand New 2 Bedroom Block Of Flat"
+    },
+    {
+        "title": "Terraced Duplexes",
+        "address": "By Urban Shelter, Lokogoma District, Abuja",
+        "price": 5000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/terraced-duplexes/abuja/lokogoma-district/3160965-newly-built-4-bedroom-terraced-duplex",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "toilets": 5,
+        "parking_space": 0,
+        "original_title": "Newly Built 4 Bedroom Terraced Duplex"
+    },
+    {
+        "title": "Block of Flats",
+        "address": "Fha, Guzape District, Abuja",
+        "price": 6000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/flats-apartments/abuja/guzape-district/3258936-2-bedrooms-flat-basement",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "toilets": 3,
+        "parking_space": 0,
+        "original_title": "2 Bedrooms Flat (basement)"
+    },
+    {
+        "title": "Detached Duplex",
+        "address": "Guzape Abuja Diplomatic Zone, Guzape District, Abuja",
+        "price": 20000000,
+        "link": "https://nigeriapropertycentre.com/for-rent/houses/detached-duplexes/abuja/guzape-district/3258976-brand-new-3-bedroom-detached-duplex-with-1room-bq",
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "toilets": 4,
+        "parking_space": 4,
+        "original_title": "Brand New  3 Bedroom Detached Duplex With 1room Bq"
     }
 ]

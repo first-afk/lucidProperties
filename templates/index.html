@@ -3,34 +3,69 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Abuja House Listings</title>
+    <title>Abuja Property Analytics</title>
     <link
       rel="stylesheet"
       href="{{ url_for('static', filename='style.css') }}"
     />
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
   </head>
   <body>
     <header>
-      <h1>🏠 Abuja Property Finder</h1>
-      <p>Your source for the latest house listings, sorted by price.</p>
+      <div class="header-content">
+        <h1>🏡 Abuja Listings</h1>
+        <p>Data schema compliant property finder</p>
+      </div>
     </header>
+
     <div class="container">
       {% for listing in listings %}
       <div class="card">
-        <h2>{{ listing.title }}</h2>
-        <h3>{{ listing.content }}</h3>
-        <p class="address">{{ listing.address }}</p>
-        <p class="price">₦{{ "{:,.0f}".format(listing.price) }} / year</p>
-        <a href="{{ listing.link }}" target="_blank" class="button"
-          >View Details</a
-        >
+        <div class="card-header">
+          <span class="badge">{{ listing.title }}</span>
+          <span class="price">₦{{ "{:,.0f}".format(listing.price) }}</span>
+        </div>
+
+        <div class="card-body">
+          <h3>{{ listing.address }}</h3>
+          <p class="sub-text">{{ listing.original_title }}</p>
+
+          <div class="specs-grid">
+            <div class="spec-item">
+              <i class="fas fa-bed"></i>
+              <span>{{ listing.bedrooms }} Beds</span>
+            </div>
+            <div class="spec-item">
+              <i class="fas fa-bath"></i>
+              <span>{{ listing.bathrooms }} Baths</span>
+            </div>
+            <div class="spec-item">
+              <i class="fas fa-toilet"></i>
+              <span>{{ listing.toilets }} Toilets</span>
+            </div>
+            <div class="spec-item">
+              <i class="fas fa-car"></i>
+              <span>{{ listing.parking_space }} Cars</span>
+            </div>
+          </div>
+          <div class="link-badge">
+            <a href="{{ listing.link }}" target="_blank" class="badge"
+              >View Details</a
+            >
+          </div>
+        </div>
       </div>
       {% else %}
-      <p>No listings found. Run the scraper first!</p>
+      <div class="empty-state">
+        <p>No listings found. Please run the scraper.</p>
+      </div>
       {% endfor %}
     </div>
   </body>

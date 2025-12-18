@@ -1,74 +1,104 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
     margin: 0;
     padding: 20px;
+    color: #333;
 }
 
 header {
     text-align: center;
     margin-bottom: 40px;
-    color: #2c3e50;
+    color: #2d3436;
 }
-
-header h1 {
-    font-size: 2.5em;
+a{
+    text-decoration: none;
+    color: inherit;
 }
 
 .container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 30px;
     max-width: 1200px;
     margin: 0 auto;
 }
 
 .card {
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    transition: transform 0.2s;
-    border-left: 5px solid #ffa500; /* Orange accent */
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+    border-top: 5px solid #ff9f43; /* Vibrant Orange */
 }
 
 .card:hover {
     transform: translateY(-5px);
 }
 
-.card h2 {
+.card-header {
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.badge {
+    background-color: #ffeaa7;
+    color: #d35400;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.link-badge{
+    margin-top: 20px;
+}
+
+.price {
     font-size: 1.2em;
-    margin-top: 0;
-    color: #34495e;
+    font-weight: 700;
+    color: #2d3436;
 }
 
-.card .address {
-    color: #7f8c8d;
-    flex-grow: 1; /* Pushes price and button to the bottom */
+.card-body {
+    padding: 20px;
 }
 
-.card .price {
-    font-size: 1.4em;
-    font-weight: bold;
-    color: #e67e22; /* A darker orange */
-    margin: 15px 0;
+.card-body h3 {
+    margin: 0 0 5px 0;
+    color: #2d3436;
 }
 
-.button {
-    display: inline-block;
-    background-color: #f39c12; /* Vibrant yellow/orange */
-    color: white;
-    padding: 10px 15px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background-color 0.2s;
+.sub-text {
+    color: #636e72;
+    font-size: 0.9em;
+    margin-bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-.button:hover {
-    background-color: #e67e22;
+.specs-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.spec-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #636e72;
+    font-size: 0.9em;
+}
+
+.spec-item i {
+    color: #ff9f43; /* Icon color */
+    width: 20px;
 }
